@@ -1,34 +1,7 @@
-<a href="https://youtu.be/KarBC2ZKpBY">
-<img src="https://dkardu.oss-cn-hongkong.aliyuncs.com/xueyangnew/xueyangnewytb.jpg" /> 
-</a></br>
+<p>Pulse Oximeter Wearable DIY Questo progetto ti guider&agrave; attraverso la trasformazione di un Arduino Nano, un display IC2 OLED e il sensore MAX30102 in un Pulse Oximeter Wearable personalizzato. Con questo dispositivo fai-da-te, sarai in grado di monitorare in tempo reale la saturazione di ossigeno nel sangue e la frequenza del polso.</p>
 
-UPGRADED VERSION!</br>
-In this project we only use the max30102 heart rate blood oxygen sensor module. Max30102 integrates a red LED and infrared LED, photodetector, optical device, and low-noise electronic circuit with ambient light suppression. </br>
-In the project, when you measure your heart rate and blood oxygen concentration, press the button and your current heart rate and blood oxygen concentration will appear on the OLED screen.</br></br>
+<p>Descrizione Il Pulse Oximeter Wearable &egrave; progettato come una base di partenza per la creazione di un dispositivo medico fai-da-te. Le istruzioni dettagliate e gli schemi chiari inclusi ti aiuteranno a collegare e programmare i componenti in modo da ottenere letture accurate e affidabili.</p>
 
-Happy New Year and Have fun with it.
-</br></br>
+<p>Caratteristiche principali Monitoraggio in tempo reale della saturazione di ossigeno nel sangue Monitoraggio della frequenza del polso Display OLED per visualizzare i dati Design compatto e indossabile Installazione Clona il repository sul tuo computer: bash Copy code git clone https://github.com/tuonome/pulse-oximeter-wearable.git Collega i componenti come descritto negli schemi inclusi nella cartella &quot;schemi&quot;. Carica il codice sorgente sul tuo Arduino Nano utilizzando l'IDE Arduino. Avvia il dispositivo e inizia a monitorare la tua salute! Contributi Siamo aperti a contributi di qualsiasi tipo! Se hai idee per migliorare il progetto o riscontrato bug, non esitare a creare una pull request o un'issue nel repository.</p>
 
-► Code in GitHub (scheme and sketch): https://github.com/DKARDU/heartrateNbloodoxygen</br></br>
-
-► Components</br>
-The following parts were used in this project:</br>
-Arduino NANO, https://amzn.to/3ihYFBl</br>
-0.96" I2C OLED, https://amzn.to/3gTMZnW</br>
-Max30102 Heart Rate Sensor</br>
-Jumper wires, https://amzn.to/3jCHhZd</br>
-Breadboard, https://amzn.to/33yEavN</br>
-</br></br></br>
-
-
-❤Subscribe It's Free https://bit.ly/2C6HdAg </br></br>
-
-Thanks for watching, Stay home and Be safe...Have a great day!</br>
-#Arduinoproject #ArduinoBloodOxygen #Howto #COVID19 #BloodOxygen #ArduinoHeartRate #HeartRate</br></br>
-
-
-<img src="https://dkardu.oss-cn-hongkong.aliyuncs.com/xueyangnew/%E7%94%B5%E8%B7%AF%E5%9B%BE.jpg" /></br>
-
-<img src="https://dkardu.oss-cn-hongkong.aliyuncs.com/xueyangnew/01.png" /></br>
-<img src="https://dkardu.oss-cn-hongkong.aliyuncs.com/xueyangnew/02.png" /></br>
-<img src="https://dkardu.oss-cn-hongkong.aliyuncs.com/xueyangnew/03.png" /></br>
+<p>Autori Nome Cognome (@username)</p>
